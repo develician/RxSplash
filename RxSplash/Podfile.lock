@@ -1,0 +1,80 @@
+PODS:
+  - Alamofire (4.7.3)
+  - CGFloatLiteral (0.4.0)
+  - Differentiator (3.1.0)
+  - Kingfisher (4.0.1)
+  - ManualLayout (1.3.0)
+  - ReactorKit (1.1.0):
+    - RxSwift (>= 4.0.0)
+  - ReusableKit (2.0.1):
+    - ReusableKit/Core (= 2.0.1)
+  - ReusableKit/Core (2.0.1)
+  - RxAlamofire (4.2.0):
+    - RxAlamofire/Core (= 4.2.0)
+  - RxAlamofire/Core (4.2.0):
+    - Alamofire (~> 4.5)
+    - RxSwift (~> 4)
+  - RxCocoa (4.3.1):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.3.1)
+  - RxViewController (0.3.0):
+    - RxCocoa (>= 4.0.0)
+    - RxSwift (>= 4.0.0)
+  - SnapKit (4.0.1)
+  - Then (2.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CGFloatLiteral
+  - Kingfisher (~> 4.0.0)
+  - ManualLayout
+  - ReactorKit
+  - ReusableKit
+  - RxAlamofire
+  - RxCocoa
+  - RxDataSources
+  - RxSwift
+  - RxViewController
+  - SnapKit
+  - Then
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CGFloatLiteral
+    - Differentiator
+    - Kingfisher
+    - ManualLayout
+    - ReactorKit
+    - ReusableKit
+    - RxAlamofire
+    - RxCocoa
+    - RxDataSources
+    - RxSwift
+    - RxViewController
+    - SnapKit
+    - Then
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  CGFloatLiteral: 2ab558b74124b584dd023a35b7e41795a61d8140
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  Kingfisher: b771785e9461ed4b8686d40e7145f9e58100cb24
+  ManualLayout: 68ac8cfa6b5f656f7a9fadec3730208b95986880
+  ReactorKit: 26470a9eff5094fae909a30af0be7cd0cf8a182d
+  ReusableKit: 11b5bde14553a35bcf3979412dbfd1e690392f14
+  RxAlamofire: 87a9c588541210cc3e4a1f843ccc3ecf3eb98b31
+  RxCocoa: 78763c7b07d02455598d9fc3c1ad091a28b73635
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxSwift: fe0fd770a43acdb7d0a53da411c9b892e69bb6e4
+  RxViewController: 203510707e73dd95f147f0c387710e3ec80d2b0f
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  Then: ee21c97b85ff6062b9b0080c9abb1eea46743345
+
+PODFILE CHECKSUM: 388e09345f2c185fcd993874498f0fad1179f568
+
+COCOAPODS: 1.5.3

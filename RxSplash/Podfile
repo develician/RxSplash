@@ -1,0 +1,34 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'RxSplash' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for RxSplash
+
+  # Architecture
+  pod 'ReactorKit'
+  
+  # Networking
+  pod 'Alamofire'
+  pod 'Kingfisher', '~> 4.0.0'
+
+  # Rx
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  pod 'RxViewController'
+  pod 'RxAlamofire'
+  pod 'RxDataSources'
+
+  # Misc.
+  pod 'Then'
+  pod 'ReusableKit'
+  pod 'CGFloatLiteral'
+  
+  # Layout
+  pod 'SnapKit'
+  pod 'ManualLayout'
+
+
+end
